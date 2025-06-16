@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Верифікація зображень</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            background: linear-gradient(-45deg, #f6e28c, #f2df66, #b8e38a, #95dfe7, #96a3e6, #96a3e6);
+            background-size: 600% 600%;
+            animation: gradientBG 15s ease infinite;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        @keyframes gradientBG {
+            0%   { background-position: 0% 50%; }
+            25%  { background-position: 50% 0%; }
+            50%  { background-position: 100% 50%; }
+            75%  { background-position: 50% 100%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 30px 40px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 100%;
+            display: flex;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+
+        .left-column, .right-column {
+            flex: 1 1 48%;
+            min-width: 320px;
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        @media (max-width: 768px) {
+            .left-column, .right-column {
+                flex: 1 1 100%;
+            }
+        }
+
+        .form-block, .classes-block, .examples-block {
+            background: #e6f2d7;
+            border-radius: 12px;
+            padding: 20px 40px;
+            box-shadow: 0 4px 10px rgba(24, 145, 0, 0.2);
+            font-weight: 600;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .form-block {
+            background: rgba(255,255,255,0.9);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+        }
+
+        h1, h2, h3 {
+            color: #189100;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .drop-zone {
+            border: 2px dashed #189100;
+            border-radius: 15px;
+            height: 150px;
+            cursor: pointer;
+            position: relative;
+            transition: background-color 0.3s;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #189100;
+            font-weight: 600;
+            margin-bottom: 15px;
+            width: 100%;
+        }
+
+        .drop-zone:hover {
+            background-color: #189100;
+            color: white;
+        }
+
+        .drop-zone input[type="file"] {
+            position: absolute;
+            opacity: 0;
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+
+        .drop-zone svg {
+            width: 48px;
+            height: 48px;
+            margin-bottom: 12px;
+            fill: #189100;
+        }
+
+        .drop-zone:hover svg {
+            fill: white;
+        }
+
+        .drop-zone p {
+            margin: 0;
+            font-size: 1.1rem;
+        }
+
+        #preview-container {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 16px;
+            overflow-x: auto;
+            overflow-y: hidden;
+            padding-bottom: 10px;
+            scroll-behavior: smooth;
+            width: 100%;
+            max-width: 100%;
+            border-radius: 8px;
+            box-sizing: border-box;
+        }
+
+        #preview-container::-webkit-scrollbar {
+            height: 8px;
+        }
+
+        #preview-container::-webkit-scrollbar-thumb {
+            background-color: #189100;
+            border-radius: 4px;
+        }
+
+        /* Стилі для кнопки видалення */
+        .preview-wrapper {
+            position: relative;
+            display: inline-block;
+        }
+        .remove-btn {
+            position: absolute;
+            top: 2px;
+            right: 2px;
+            background: rgba(255, 255, 255, 0.8);
+            border: none;
+            border-radius: 50%;
+            width: 22px;
+            height: 22px;
+            font-weight: bold;
+            color: #189100;
+            cursor: pointer;
+            line-height: 18px;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: background-color 0.2s ease;
+        }
+        .remove-btn:hover {
+            background: #189100;
+            color: white;
+        }
+
+        #preview-container img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            display: block;
+        }
+
+        button {
+            width: 100%;
+            font-weight: 700;
+            font-size: 1.05rem;
+        }
+
+        .btn-custom-green {
+            background-color: #189100;
+            color: white;
+            border: none;
+        }
+        .btn-custom-green:hover {
+            background-color: #157d00;
+        }
+
+        select.form-select {
+            color: #189100;
+            font-weight: 600;
+            max-width: 100%;
+        }
+
+        .class-items-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 40px;
+            justify-content: center;
+        }
+
+        .class-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.1rem;
+            color: #126400;
+        }
+
+        .class-item svg {
+            width: 32px;
+            height: 32px;
+            fill: #189100;
+        }
+
+        .examples-block {
+            background: #dff0d8;
+            color: #3c763d;
+        }
+
+        .example-row {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .example-row img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .example-item img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="left-column">
+            <div class="form-block">
+                <h1>Верифікація зображень</h1>
+                <form action="/process" method="post" enctype="multipart/form-data" class="mb-4" style="width:100%;">
+                    <label class="drop-zone" for="file-input">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M5 20h14v-2H5v2zm7-18L5.33 9h3.67v4h4v-4h3.67L12 2z"/>
+                        </svg>
+                        <p>Завантажте зображення для перевірки</p>
+                        <input type="file" name="images" id="file-input" multiple accept=".png,.jpg,.jpeg" required>
+                    </label>
+                    <div id="preview-container" class="d-flex gap-3"></div>
+                    <button type="submit" class="btn btn-primary mt-3">Запустити перевірку</button>
+                </form>
+            </div>
+
+            <div class="form-block">
+                <h2>Парсинг зображень із Rozetka</h2>
+                <!-- Форма парсингу по категорії -->
+                <form action="/parse_rozetka" method="post" class="mb-0" style="width:100%;">
+                    <label for="category" class="form-label">Оберіть категорію:</label>
+                    <select name="category" id="category" class="form-select" required>
+                        {% for key, url in categories.items() %}
+                        <option value="{{ key }}">{{ key.capitalize() }}</option>
+                        {% endfor %}
+                    </select>
+                    <button type="submit" class="btn btn-warning mt-3">Парсити обрану категорію</button>
+                </form>
+
+                <!-- Форма кастомної URL-адреси -->
+                <form action="/parse_custom" method="post" class="mt-0" style="width:100%;">
+                    <label for="custom-url-input" class="form-label">Або введіть власну URL-адресу для парсингу:</label>
+                    <input type="url" class="form-control" id="custom-url-input" name="custom_url"
+                        placeholder="https://example.com/category" pattern="https?://.+" required />
+                    <button type="submit" class="btn btn-custom-green mt-3">Парсити вказану URL-адресу</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="right-column">
+            <div class="classes-block">
+                <h3>Класи розпізнавання</h3>
+                <div class="class-items-row">
+                    <div class="class-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M2 13h16v3H2v-3zm18 0v3h2v-3h-2zm-6-4h6v2h-6v-2zm2-5h2v3h-2V4z"/>
+                        </svg>
+                        Цигарки
+                    </div>
+                    <div class="class-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M12 2l1.5 4 4-1.5-3 3 4 1.5-4 1.5 3 3-4-1.5-1.5 4-1.5-4-4 1.5 3-3-4-1.5 4-1.5-3-3 4 1.5L12 2z"/>
+                        </svg>
+                        Канабіс
+                    </div>
+                    <div class="class-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M7 9h10v2H7V9zm12 2v2h-4v-2h4zm-2 3h2v3h-2v-3zm-8-8h2v5H9V6zm-3 7h2v2H6v-2z"/>
+                        </svg>
+                        Пістолети
+                    </div>
+                </div>
+            </div>
+
+            <div class="examples-block">
+                <h3>Приклади розпізнавання</h3>
+                <div class="example-row">
+                    <div class="example-item">
+                        <img src="static\results_examples\53.jpg" alt="Цигарки" />
+                    </div>
+                    <div class="example-item">
+                        <img src="static\results_examples\8.jpg" alt="Канабіс" />
+                    </div>
+                    <div class="example-item">
+                        <img src="static\results_examples\6.jpg" alt="Канабіс" />
+                    </div>
+                    <div class="example-item">
+                        <img src="static\results_examples\24.jpg" alt="Пістолет" />
+                    </div>
+                    <div class="example-item">
+                        <img src="static\results_examples\52.jpg" alt="Пістолет" />
+                    </div>
+                    <div class="example-item">
+                        <img src="static\results_examples\1.jpg" alt="Цигарки" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+
+    const fileInput = document.getElementById('file-input');
+    const previewContainer = document.getElementById('preview-container');
+
+    // Масив для збереження вибраних файлів
+    let selectedFiles = [];
+
+    fileInput.addEventListener('change', () => {
+        for (let i = 0; i < fileInput.files.length; i++) {
+            const file = fileInput.files[i];
+            if (!selectedFiles.some(f => f.name === file.name && f.size === file.size)) {
+                selectedFiles.push(file);
+            }
+        }
+        updatePreview();
+        updateFileInput();
+    });
+
+    function updatePreview() {
+        previewContainer.innerHTML = '';
+        selectedFiles.forEach((file, index) => {
+            const wrapper = document.createElement('div');
+            wrapper.classList.add('preview-wrapper');
+
+            const img = document.createElement('img');
+            const reader = new FileReader();
+            reader.onload = e => {
+                img.src = e.target.result;
+            };
+            reader.readAsDataURL(file);
+
+            const removeBtn = document.createElement('button');
+            removeBtn.classList.add('remove-btn');
+            removeBtn.innerHTML = '&times;';
+            removeBtn.title = "Видалити зображення";
+            removeBtn.onclick = () => {
+                selectedFiles.splice(index, 1);
+                updatePreview();
+                updateFileInput();
+            };
+
+            wrapper.appendChild(img);
+            wrapper.appendChild(removeBtn);
+            previewContainer.appendChild(wrapper);
+        });
+    }
+
+    function updateFileInput() {
+        const dataTransfer = new DataTransfer();
+        selectedFiles.forEach(file => dataTransfer.items.add(file));
+        fileInput.files = dataTransfer.files;
+    }
+</script>
+</body>
+</html>

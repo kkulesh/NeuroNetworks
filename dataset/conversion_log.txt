@@ -1,0 +1,443 @@
+2025-05-28 17:24:24,729 - INFO - 
+2025-05-28 17:24:24,729 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\1.jpg
+2025-05-28 17:24:24,845 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\2.jpg
+2025-05-28 17:24:24,845 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\3.jpg
+2025-05-28 17:24:24,845 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\4.jpg
+2025-05-28 17:24:24,845 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\5.jpg
+2025-05-28 17:24:24,845 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\6.jpg
+2025-05-28 17:24:24,852 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\7.jpg
+2025-05-28 17:24:24,859 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\8.jpg
+2025-05-28 17:24:24,859 - ERROR - Файл 'Course 2 Project.pdf' має непідтримуваний формат '.pdf', пропускаємо.
+2025-05-28 17:24:24,859 - INFO - 
+2025-05-28 17:24:24,860 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\1.jpg
+2025-05-28 17:24:24,867 - INFO - Конвертовано та збережено: converted_images\cigarette_jpg\2.jpg
+2025-05-28 17:24:24,867 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\3.jpg
+2025-05-28 17:24:24,867 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\4.jpg
+2025-05-28 17:24:24,867 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\5.jpg
+2025-05-28 17:24:24,867 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\6.jpg
+2025-05-28 17:24:24,867 - ERROR - Файл 'train5_log.txt' має непідтримуваний формат '.txt', пропускаємо.
+2025-05-28 17:24:24,868 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\7.jpg
+2025-05-28 17:24:24,868 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\8.jpg
+2025-05-28 17:24:24,868 - INFO - 
+2025-05-28 17:24:24,868 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\1.jpg
+2025-05-28 17:24:24,868 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\2.jpg
+2025-05-28 17:24:24,868 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\3.jpg
+2025-05-28 17:24:24,868 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\4.jpg
+2025-05-28 17:24:24,868 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\5.jpg
+2025-05-28 17:24:24,868 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\6.jpg
+2025-05-28 17:24:24,995 - INFO - Конвертовано та збережено: converted_images\gun_jpg\7.jpg
+2025-05-28 17:24:24,996 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\8.jpg
+2025-05-28 17:39:22,350 - INFO - 
+2025-05-28 17:39:22,362 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\1.jpg
+2025-05-28 17:39:22,475 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\2.jpg
+2025-05-28 17:39:22,487 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\3.jpg
+2025-05-28 17:39:22,502 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\4.jpg
+2025-05-28 17:39:22,512 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\5.jpg
+2025-05-28 17:39:22,521 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\6.jpg
+2025-05-28 17:39:22,530 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\7.jpg
+2025-05-28 17:39:22,538 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\8.jpg
+2025-05-28 17:39:22,545 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\9.jpg
+2025-05-28 17:39:22,555 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\10.jpg
+2025-05-28 17:39:22,565 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\11.jpg
+2025-05-28 17:39:22,593 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\12.jpg
+2025-05-28 17:39:22,604 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\13.jpg
+2025-05-28 17:39:22,613 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\14.jpg
+2025-05-28 17:39:22,622 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\15.jpg
+2025-05-28 17:39:22,637 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\16.jpg
+2025-05-28 17:39:22,646 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\17.jpg
+2025-05-28 17:39:22,656 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\18.jpg
+2025-05-28 17:39:22,667 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\19.jpg
+2025-05-28 17:39:22,679 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\20.jpg
+2025-05-28 17:39:22,701 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\21.jpg
+2025-05-28 17:39:22,741 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\22.jpg
+2025-05-28 17:39:22,751 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\23.jpg
+2025-05-28 17:39:22,760 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\24.jpg
+2025-05-28 17:39:22,773 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\25.jpg
+2025-05-28 17:39:22,784 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\26.jpg
+2025-05-28 17:39:22,797 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\27.jpg
+2025-05-28 17:39:22,810 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\28.jpg
+2025-05-28 17:39:22,845 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\29.jpg
+2025-05-28 17:39:22,857 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\30.jpg
+2025-05-28 17:39:22,870 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\31.jpg
+2025-05-28 17:39:22,880 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\32.jpg
+2025-05-28 17:39:22,890 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\33.jpg
+2025-05-28 17:39:22,926 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\34.jpg
+2025-05-28 17:39:22,935 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\35.jpg
+2025-05-28 17:39:22,943 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\36.jpg
+2025-05-28 17:39:22,953 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\37.jpg
+2025-05-28 17:39:23,051 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\38.jpg
+2025-05-28 17:39:23,065 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\39.jpg
+2025-05-28 17:39:23,077 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\40.jpg
+2025-05-28 17:39:23,087 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\41.jpg
+2025-05-28 17:39:23,098 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\42.jpg
+2025-05-28 17:39:23,109 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\43.jpg
+2025-05-28 17:39:23,119 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\44.jpg
+2025-05-28 17:39:23,128 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\45.jpg
+2025-05-28 17:39:23,137 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\46.jpg
+2025-05-28 17:39:23,146 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\47.jpg
+2025-05-28 17:39:23,157 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\48.jpg
+2025-05-28 17:39:23,200 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\49.jpg
+2025-05-28 17:39:23,209 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\50.jpg
+2025-05-28 17:39:23,218 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\51.jpg
+2025-05-28 17:39:23,228 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\52.jpg
+2025-05-28 17:39:23,237 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\53.jpg
+2025-05-28 17:39:23,247 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\54.jpg
+2025-05-28 17:39:23,257 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\55.jpg
+2025-05-28 17:39:23,271 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\56.jpg
+2025-05-28 17:39:23,284 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\57.jpg
+2025-05-28 17:39:23,295 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\58.jpg
+2025-05-28 17:39:23,308 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\59.jpg
+2025-05-28 17:39:23,320 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\60.jpg
+2025-05-28 17:39:23,332 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\61.jpg
+2025-05-28 17:39:23,386 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\62.jpg
+2025-05-28 17:39:23,396 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\63.jpg
+2025-05-28 17:39:23,405 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\64.jpg
+2025-05-28 17:39:23,414 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\65.jpg
+2025-05-28 17:39:23,423 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\66.jpg
+2025-05-28 17:39:23,432 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\67.jpg
+2025-05-28 17:39:23,442 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\68.jpg
+2025-05-28 17:39:23,451 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\69.jpg
+2025-05-28 17:39:23,460 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\70.jpg
+2025-05-28 17:39:23,471 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\71.jpg
+2025-05-28 17:39:23,484 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\72.jpg
+2025-05-28 17:39:23,495 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\73.jpg
+2025-05-28 17:39:23,507 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\74.jpg
+2025-05-28 17:39:23,519 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\75.jpg
+2025-05-28 17:39:23,533 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\76.jpg
+2025-05-28 17:39:23,545 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\77.jpg
+2025-05-28 17:39:23,558 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\78.jpg
+2025-05-28 17:39:23,569 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\79.jpg
+2025-05-28 17:39:23,578 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\80.jpg
+2025-05-28 17:39:23,588 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\81.jpg
+2025-05-28 17:39:23,597 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\82.jpg
+2025-05-28 17:39:23,607 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\83.jpg
+2025-05-28 17:39:23,616 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\84.jpg
+2025-05-28 17:39:23,625 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\85.jpg
+2025-05-28 17:39:23,628 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\86.jpg
+2025-05-28 17:39:23,638 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\87.jpg
+2025-05-28 17:39:23,647 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\88.jpg
+2025-05-28 17:39:23,657 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\89.jpg
+2025-05-28 17:39:23,669 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\90.jpg
+2025-05-28 17:39:23,681 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\91.jpg
+2025-05-28 17:39:23,693 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\92.jpg
+2025-05-28 17:39:23,705 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\93.jpg
+2025-05-28 17:39:23,737 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\94.jpg
+2025-05-28 17:39:23,764 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\95.jpg
+2025-05-28 17:39:23,773 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\96.jpg
+2025-05-28 17:39:23,783 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\97.jpg
+2025-05-28 17:39:23,793 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\98.jpg
+2025-05-28 17:39:23,802 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\99.jpg
+2025-05-28 17:39:23,811 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\100.jpg
+2025-05-28 17:39:23,820 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\101.jpg
+2025-05-28 17:39:23,829 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\102.jpg
+2025-05-28 17:39:23,839 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\103.jpg
+2025-05-28 17:39:23,848 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\104.jpg
+2025-05-28 17:39:23,857 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\105.jpg
+2025-05-28 17:39:23,867 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\106.jpg
+2025-05-28 17:39:23,879 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\107.jpg
+2025-05-28 17:39:23,891 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\108.jpg
+2025-05-28 17:39:23,903 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\109.jpg
+2025-05-28 17:39:23,916 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\110.jpg
+2025-05-28 17:39:23,927 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\111.jpg
+2025-05-28 17:39:23,940 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\112.jpg
+2025-05-28 17:39:23,951 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\113.jpg
+2025-05-28 17:39:23,963 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\114.jpg
+2025-05-28 17:39:23,975 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\115.jpg
+2025-05-28 17:39:23,985 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\116.jpg
+2025-05-28 17:39:23,995 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\117.jpg
+2025-05-28 17:39:24,004 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\118.jpg
+2025-05-28 17:39:24,013 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\119.jpg
+2025-05-28 17:39:24,023 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\120.jpg
+2025-05-28 17:39:24,032 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\121.jpg
+2025-05-28 17:39:24,042 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\122.jpg
+2025-05-28 17:39:24,052 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\123.jpg
+2025-05-28 17:39:24,061 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\124.jpg
+2025-05-28 17:39:24,070 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\125.jpg
+2025-05-28 17:39:24,080 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\126.jpg
+2025-05-28 17:39:24,093 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\127.jpg
+2025-05-28 17:39:24,107 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\128.jpg
+2025-05-28 17:39:24,120 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\129.jpg
+2025-05-28 17:39:24,132 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\130.jpg
+2025-05-28 17:39:24,146 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\131.jpg
+2025-05-28 17:39:24,160 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\132.jpg
+2025-05-28 17:39:24,174 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\133.jpg
+2025-05-28 17:39:24,185 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\134.jpg
+2025-05-28 17:39:24,194 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\135.jpg
+2025-05-28 17:39:24,204 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\136.jpg
+2025-05-28 17:39:24,215 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\137.jpg
+2025-05-28 17:39:24,224 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\138.jpg
+2025-05-28 17:39:24,243 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\139.jpg
+2025-05-28 17:39:24,254 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\140.jpg
+2025-05-28 17:39:24,263 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\141.jpg
+2025-05-28 17:39:24,276 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\142.jpg
+2025-05-28 17:39:24,290 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\143.jpg
+2025-05-28 17:39:24,303 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\144.jpg
+2025-05-28 17:39:24,323 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\145.jpg
+2025-05-28 17:39:24,335 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\146.jpg
+2025-05-28 17:39:24,583 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\147.jpg
+2025-05-28 17:39:24,597 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\148.jpg
+2025-05-28 17:39:24,643 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\149.jpg
+2025-05-28 17:39:24,658 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\150.jpg
+2025-05-28 17:39:24,669 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\151.jpg
+2025-05-28 17:39:24,679 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\152.jpg
+2025-05-28 17:39:24,690 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\153.jpg
+2025-05-28 17:39:24,699 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\154.jpg
+2025-05-28 17:39:24,711 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\155.jpg
+2025-05-28 17:39:24,722 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\156.jpg
+2025-05-28 17:39:24,749 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\157.jpg
+2025-05-28 17:39:24,761 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\158.jpg
+2025-05-28 17:39:24,777 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\159.jpg
+2025-05-28 17:39:24,790 - INFO - Конвертовано та збережено: converted_images\cannabis_jpg\160.jpg
+2025-05-28 17:39:24,804 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\161.jpg
+2025-05-28 17:39:24,818 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\162.jpg
+2025-05-28 17:39:24,879 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\163.jpg
+2025-05-28 17:39:24,891 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\164.jpg
+2025-05-28 17:39:24,902 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cannabis_jpg\165.jpg
+2025-05-28 17:39:24,902 - INFO - 
+2025-05-28 17:39:24,911 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\1.jpg
+2025-05-28 17:39:24,919 - INFO - Конвертовано та збережено: converted_images\cigarette_jpg\2.jpg
+2025-05-28 17:39:24,929 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\3.jpg
+2025-05-28 17:39:24,938 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\4.jpg
+2025-05-28 17:39:24,947 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\5.jpg
+2025-05-28 17:39:24,956 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\6.jpg
+2025-05-28 17:39:24,965 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\7.jpg
+2025-05-28 17:39:24,983 - INFO - Конвертовано та збережено: converted_images\cigarette_jpg\8.jpg
+2025-05-28 17:39:25,006 - INFO - Конвертовано та збережено: converted_images\cigarette_jpg\9.jpg
+2025-05-28 17:39:25,016 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\10.jpg
+2025-05-28 17:39:25,029 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\11.jpg
+2025-05-28 17:39:25,041 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\12.jpg
+2025-05-28 17:39:25,053 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\13.jpg
+2025-05-28 17:39:25,064 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\14.jpg
+2025-05-28 17:39:25,077 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\15.jpg
+2025-05-28 17:39:25,088 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\16.jpg
+2025-05-28 17:39:25,098 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\17.jpg
+2025-05-28 17:39:25,108 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\18.jpg
+2025-05-28 17:39:25,117 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\19.jpg
+2025-05-28 17:39:25,127 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\20.jpg
+2025-05-28 17:39:25,136 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\21.jpg
+2025-05-28 17:39:25,145 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\22.jpg
+2025-05-28 17:39:25,155 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\23.jpg
+2025-05-28 17:39:25,165 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\24.jpg
+2025-05-28 17:39:25,174 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\25.jpg
+2025-05-28 17:39:25,183 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\26.jpg
+2025-05-28 17:39:25,192 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\27.jpg
+2025-05-28 17:39:25,221 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\28.jpg
+2025-05-28 17:39:25,233 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\29.jpg
+2025-05-28 17:39:25,245 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\30.jpg
+2025-05-28 17:39:25,256 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\31.jpg
+2025-05-28 17:39:25,269 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\32.jpg
+2025-05-28 17:39:25,281 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\33.jpg
+2025-05-28 17:39:25,294 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\34.jpg
+2025-05-28 17:39:25,308 - INFO - Конвертовано та збережено: converted_images\cigarette_jpg\35.jpg
+2025-05-28 17:39:25,319 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\36.jpg
+2025-05-28 17:39:25,354 - INFO - Конвертовано та збережено: converted_images\cigarette_jpg\37.jpg
+2025-05-28 17:39:25,367 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\38.jpg
+2025-05-28 17:39:25,379 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\39.jpg
+2025-05-28 17:39:25,392 - INFO - Конвертовано та збережено: converted_images\cigarette_jpg\40.jpg
+2025-05-28 17:39:25,402 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\41.jpg
+2025-05-28 17:39:25,412 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\cigarette_jpg\42.jpg
+2025-05-28 17:39:25,412 - INFO - 
+2025-05-28 17:39:25,423 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\1.jpg
+2025-05-28 17:39:25,463 - INFO - Конвертовано та збережено: converted_images\gun_jpg\2.jpg
+2025-05-28 17:39:25,481 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\3.jpg
+2025-05-28 17:39:25,612 - INFO - Конвертовано та збережено: converted_images\gun_jpg\4.jpg
+2025-05-28 17:39:25,652 - INFO - Конвертовано та збережено: converted_images\gun_jpg\5.jpg
+2025-05-28 17:39:25,677 - INFO - Конвертовано та збережено: converted_images\gun_jpg\6.jpg
+2025-05-28 17:39:25,707 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\7.jpg
+2025-05-28 17:39:25,725 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\8.jpg
+2025-05-28 17:39:25,737 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\9.jpg
+2025-05-28 17:39:25,749 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\10.jpg
+2025-05-28 17:39:25,760 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\11.jpg
+2025-05-28 17:39:25,772 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\12.jpg
+2025-05-28 17:39:25,784 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\13.jpg
+2025-05-28 17:39:25,795 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\14.jpg
+2025-05-28 17:39:25,868 - INFO - Конвертовано та збережено: converted_images\gun_jpg\15.jpg
+2025-05-28 17:39:26,005 - INFO - Конвертовано та збережено: converted_images\gun_jpg\16.jpg
+2025-05-28 17:39:26,019 - INFO - Конвертовано та збережено: converted_images\gun_jpg\17.jpg
+2025-05-28 17:39:26,050 - INFO - Конвертовано та збережено: converted_images\gun_jpg\18.jpg
+2025-05-28 17:39:26,058 - INFO - Конвертовано та збережено: converted_images\gun_jpg\19.jpg
+2025-05-28 17:39:26,068 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\20.jpg
+2025-05-28 17:39:26,078 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\21.jpg
+2025-05-28 17:39:26,090 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\22.jpg
+2025-05-28 17:39:26,119 - INFO - Конвертовано та збережено: converted_images\gun_jpg\23.jpg
+2025-05-28 17:39:26,129 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\24.jpg
+2025-05-28 17:39:26,139 - INFO - Конвертовано та збережено: converted_images\gun_jpg\25.jpg
+2025-05-28 17:39:26,148 - INFO - Конвертовано та збережено: converted_images\gun_jpg\26.jpg
+2025-05-28 17:39:26,158 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\27.jpg
+2025-05-28 17:39:26,171 - INFO - Конвертовано та збережено: converted_images\gun_jpg\28.jpg
+2025-05-28 17:39:26,180 - INFO - Конвертовано та збережено: converted_images\gun_jpg\29.jpg
+2025-05-28 17:39:26,193 - INFO - Конвертовано та збережено: converted_images\gun_jpg\30.jpg
+2025-05-28 17:39:26,211 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\31.jpg
+2025-05-28 17:39:26,228 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\32.jpg
+2025-05-28 17:39:26,247 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\33.jpg
+2025-05-28 17:39:26,269 - INFO - Конвертовано та збережено: converted_images\gun_jpg\34.jpg
+2025-05-28 17:39:26,287 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\35.jpg
+2025-05-28 17:39:26,306 - INFO - Конвертовано та збережено: converted_images\gun_jpg\36.jpg
+2025-05-28 17:39:26,328 - INFO - Конвертовано та збережено: converted_images\gun_jpg\37.jpg
+2025-05-28 17:39:26,340 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\38.jpg
+2025-05-28 17:39:26,352 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\39.jpg
+2025-05-28 17:39:26,365 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\40.jpg
+2025-05-28 17:39:26,376 - INFO - Конвертовано та збережено: converted_images\gun_jpg\41.jpg
+2025-05-28 17:39:26,388 - INFO - Конвертовано та збережено: converted_images\gun_jpg\42.jpg
+2025-05-28 17:39:26,400 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\43.jpg
+2025-05-28 17:39:26,410 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\44.jpg
+2025-05-28 17:39:26,447 - INFO - Конвертовано та збережено: converted_images\gun_jpg\45.jpg
+2025-05-28 17:39:26,464 - INFO - Конвертовано та збережено: converted_images\gun_jpg\46.jpg
+2025-05-28 17:39:26,479 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\47.jpg
+2025-05-28 17:39:26,492 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\48.jpg
+2025-05-28 17:39:26,505 - INFO - Конвертовано та збережено: converted_images\gun_jpg\49.jpg
+2025-05-28 17:39:26,517 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\50.jpg
+2025-05-28 17:39:26,527 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\51.jpg
+2025-05-28 17:39:26,538 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\52.jpg
+2025-05-28 17:39:26,548 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\53.jpg
+2025-05-28 17:39:26,557 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\54.jpg
+2025-05-28 17:39:26,567 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\55.jpg
+2025-05-28 17:39:26,577 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\56.jpg
+2025-05-28 17:39:26,586 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\57.jpg
+2025-05-28 17:39:26,595 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\58.jpg
+2025-05-28 17:39:26,605 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\59.jpg
+2025-05-28 17:39:26,613 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\60.jpg
+2025-05-28 17:39:26,623 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\61.jpg
+2025-05-28 17:39:26,631 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\62.jpg
+2025-05-28 17:39:26,641 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\63.jpg
+2025-05-28 17:39:26,650 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\64.jpg
+2025-05-28 17:39:26,662 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\65.jpg
+2025-05-28 17:39:26,673 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\66.jpg
+2025-05-28 17:39:26,685 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\67.jpg
+2025-05-28 17:39:26,700 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\68.jpg
+2025-05-28 17:39:26,719 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\69.jpg
+2025-05-28 17:39:26,740 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\70.jpg
+2025-05-28 17:39:26,770 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\71.jpg
+2025-05-28 17:39:26,781 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\72.jpg
+2025-05-28 17:39:26,794 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\73.jpg
+2025-05-28 17:39:26,805 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\74.jpg
+2025-05-28 17:39:26,817 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\75.jpg
+2025-05-28 17:39:26,827 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\76.jpg
+2025-05-28 17:39:26,838 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\77.jpg
+2025-05-28 17:39:26,850 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\78.jpg
+2025-05-28 17:39:26,863 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\79.jpg
+2025-05-28 17:39:26,878 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\80.jpg
+2025-05-28 17:39:26,894 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\81.jpg
+2025-05-28 17:39:26,905 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\82.jpg
+2025-05-28 17:39:26,949 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\83.jpg
+2025-05-28 17:39:26,961 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\84.jpg
+2025-05-28 17:39:26,971 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\85.jpg
+2025-05-28 17:39:26,980 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\86.jpg
+2025-05-28 17:39:26,989 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\87.jpg
+2025-05-28 17:39:26,999 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\88.jpg
+2025-05-28 17:39:27,008 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\89.jpg
+2025-05-28 17:39:27,018 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\90.jpg
+2025-05-28 17:39:27,027 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\91.jpg
+2025-05-28 17:39:27,037 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\92.jpg
+2025-05-28 17:39:27,046 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\93.jpg
+2025-05-28 17:39:27,057 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\94.jpg
+2025-05-28 17:39:27,068 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\95.jpg
+2025-05-28 17:39:27,079 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\96.jpg
+2025-05-28 17:39:27,091 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\97.jpg
+2025-05-28 17:39:27,102 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\98.jpg
+2025-05-28 17:39:27,114 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\99.jpg
+2025-05-28 17:39:27,126 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\100.jpg
+2025-05-28 17:39:27,138 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\101.jpg
+2025-05-28 17:39:27,149 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\102.jpg
+2025-05-28 17:39:27,162 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\103.jpg
+2025-05-28 17:39:27,174 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\104.jpg
+2025-05-28 17:39:27,205 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\105.jpg
+2025-05-28 17:39:27,268 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\106.jpg
+2025-05-28 17:39:27,284 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\107.jpg
+2025-05-28 17:39:27,302 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\108.jpg
+2025-05-28 17:39:27,318 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\109.jpg
+2025-05-28 17:39:27,338 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\110.jpg
+2025-05-28 17:39:27,355 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\111.jpg
+2025-05-28 17:39:27,376 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\112.jpg
+2025-05-28 17:39:27,393 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\113.jpg
+2025-05-28 17:39:27,411 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\114.jpg
+2025-05-28 17:39:27,416 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\115.jpg
+2025-05-28 17:39:27,432 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\116.jpg
+2025-05-28 17:39:27,448 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\117.jpg
+2025-05-28 17:39:27,465 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\118.jpg
+2025-05-28 17:39:27,482 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\119.jpg
+2025-05-28 17:39:27,498 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\120.jpg
+2025-05-28 17:39:27,517 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\121.jpg
+2025-05-28 17:39:27,534 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\122.jpg
+2025-05-28 17:39:27,552 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\123.jpg
+2025-05-28 17:39:27,569 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\124.jpg
+2025-05-28 17:39:27,586 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\125.jpg
+2025-05-28 17:39:27,600 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\126.jpg
+2025-05-28 17:39:27,618 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\127.jpg
+2025-05-28 17:39:27,674 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\128.jpg
+2025-05-28 17:39:27,710 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\129.jpg
+2025-05-28 17:39:27,734 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\130.jpg
+2025-05-28 17:39:27,753 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\131.jpg
+2025-05-28 17:39:27,769 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\132.jpg
+2025-05-28 17:39:27,784 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\133.jpg
+2025-05-28 17:39:27,800 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\134.jpg
+2025-05-28 17:39:27,826 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\135.jpg
+2025-05-28 17:39:27,849 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\136.jpg
+2025-05-28 17:39:27,879 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\137.jpg
+2025-05-28 17:39:27,901 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\138.jpg
+2025-05-28 17:39:27,928 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\139.jpg
+2025-05-28 17:39:27,945 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\140.jpg
+2025-05-28 17:39:27,959 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\141.jpg
+2025-05-28 17:39:27,972 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\142.jpg
+2025-05-28 17:39:27,986 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\143.jpg
+2025-05-28 17:39:27,998 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\144.jpg
+2025-05-28 17:39:28,012 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\145.jpg
+2025-05-28 17:39:28,025 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\146.jpg
+2025-05-28 17:39:28,038 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\147.jpg
+2025-05-28 17:39:28,095 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\148.jpg
+2025-05-28 17:39:28,109 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\149.jpg
+2025-05-28 17:39:28,121 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\150.jpg
+2025-05-28 17:39:28,134 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\151.jpg
+2025-05-28 17:39:28,148 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\152.jpg
+2025-05-28 17:39:28,163 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\153.jpg
+2025-05-28 17:39:28,167 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\154.jpg
+2025-05-28 17:39:28,180 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\155.jpg
+2025-05-28 17:39:28,230 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\156.jpg
+2025-05-28 17:39:28,247 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\157.jpg
+2025-05-28 17:39:28,263 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\158.jpg
+2025-05-28 17:39:28,278 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\159.jpg
+2025-05-28 17:39:28,289 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\160.jpg
+2025-05-28 17:39:28,302 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\161.jpg
+2025-05-28 17:39:28,314 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\162.jpg
+2025-05-28 17:39:28,325 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\163.jpg
+2025-05-28 17:39:28,335 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\164.jpg
+2025-05-28 17:39:28,346 - INFO - Конвертовано та збережено: converted_images\gun_jpg\165.jpg
+2025-05-28 17:39:28,368 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\166.jpg
+2025-05-28 17:39:28,380 - INFO - Конвертовано та збережено: converted_images\gun_jpg\167.jpg
+2025-05-28 17:39:28,394 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\168.jpg
+2025-05-28 17:39:28,407 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\169.jpg
+2025-05-28 17:39:28,420 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\170.jpg
+2025-05-28 17:39:28,431 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\171.jpg
+2025-05-28 17:39:28,445 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\172.jpg
+2025-05-28 17:39:28,458 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\173.jpg
+2025-05-28 17:39:28,469 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\174.jpg
+2025-05-28 17:39:28,479 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\175.jpg
+2025-05-28 17:39:28,489 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\176.jpg
+2025-05-28 17:39:28,497 - INFO - Конвертовано та збережено: converted_images\gun_jpg\177.jpg
+2025-05-28 17:39:28,513 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\178.jpg
+2025-05-28 17:39:28,523 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\179.jpg
+2025-05-28 17:39:28,532 - INFO - Конвертовано та збережено: converted_images\gun_jpg\180.jpg
+2025-05-28 17:39:28,553 - INFO - Конвертовано та збережено: converted_images\gun_jpg\181.jpg
+2025-05-28 17:39:29,044 - INFO - Конвертовано та збережено: converted_images\gun_jpg\182.jpg
+2025-05-28 17:39:29,108 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\183.jpg
+2025-05-28 17:39:29,137 - INFO - Конвертовано та збережено: converted_images\gun_jpg\184.jpg
+2025-05-28 17:39:29,148 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\185.jpg
+2025-05-28 17:39:29,158 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\186.jpg
+2025-05-28 17:39:29,215 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\187.jpg
+2025-05-28 17:39:29,221 - INFO - Конвертовано та збережено: converted_images\gun_jpg\188.jpg
+2025-05-28 17:39:29,361 - INFO - Конвертовано та збережено: converted_images\gun_jpg\189.jpg
+2025-05-28 17:39:29,377 - INFO - Конвертовано та збережено: converted_images\gun_jpg\190.jpg
+2025-05-28 17:39:29,386 - INFO - Конвертовано та збережено: converted_images\gun_jpg\191.jpg
+2025-05-28 17:39:29,397 - INFO - Конвертовано та збережено: converted_images\gun_jpg\192.jpg
+2025-05-28 17:39:29,408 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\193.jpg
+2025-05-28 17:39:29,418 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\194.jpg
+2025-05-28 17:39:29,437 - INFO - Конвертовано та збережено: converted_images\gun_jpg\195.jpg
+2025-05-28 17:39:29,447 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\196.jpg
+2025-05-28 17:39:29,481 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\197.jpg
+2025-05-28 17:39:29,493 - INFO - Конвертовано та збережено: converted_images\gun_jpg\198.jpg
+2025-05-28 17:39:29,503 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\199.jpg
+2025-05-28 17:39:29,515 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\200.jpg
+2025-05-28 17:39:29,548 - INFO - Конвертовано та збережено: converted_images\gun_jpg\201.jpg
+2025-05-28 17:39:29,579 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\202.jpg
+2025-05-28 17:39:29,592 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\203.jpg
+2025-05-28 17:39:29,605 - INFO - Пропущено конвертацію (вже jpg) та збережено: converted_images\gun_jpg\204.jpg

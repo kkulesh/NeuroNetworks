@@ -1,0 +1,1447 @@
+2. [2025-06-03 12:53:32] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-03 12:53:32] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-03 12:53:32] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-03 12:53:32] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+6. [2025-06-03 12:53:32] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+7. [2025-06-03 12:53:32] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+8. [2025-06-03 12:53:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819817.jpg
+9. [2025-06-03 12:53:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888082.jpg
+10. [2025-06-03 12:53:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507062959.jpg
+11. [2025-06-03 12:53:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796534.webp
+12. [2025-06-03 12:53:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586733.jpg
+13. [2025-06-03 12:53:32] Загальна кількість успішно збережених зображень за цей запуск: 5
+2. [2025-06-03 12:53:41] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-03 12:53:41] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-03 12:53:41] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-03 12:53:41] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+6. [2025-06-03 12:53:41] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+7. [2025-06-03 12:53:41] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+8. [2025-06-03 12:53:41] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819817.jpg
+9. [2025-06-03 12:53:41] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888082.jpg
+10. [2025-06-03 12:53:41] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507062959.jpg
+11. [2025-06-03 12:53:41] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796534.webp
+12. [2025-06-03 12:53:41] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586733.jpg
+13. [2025-06-03 12:53:41] Загальна кількість успішно збережених зображень за цей запуск: 5
+2. [2025-06-03 12:53:43] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-03 12:53:43] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-03 12:53:43] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-03 12:53:43] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+6. [2025-06-03 12:53:43] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+7. [2025-06-03 12:53:43] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+8. [2025-06-03 12:53:43] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819817.jpg
+9. [2025-06-03 12:53:43] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888082.jpg
+10. [2025-06-03 12:53:44] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507062959.jpg
+11. [2025-06-03 12:53:44] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796534.webp
+12. [2025-06-03 12:53:44] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586733.jpg
+13. [2025-06-03 12:53:44] Загальна кількість успішно збережених зображень за цей запуск: 10
+1. [2025-06-03 13:00:07] [Помилка] Не вдалося завантажити сторінку Rozetka: 404 Client Error: Not Found for url: https://rozetka.com.ua/ua/game-consoles/c80167/
+2. [2025-06-03 13:00:21] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-03 13:00:21] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-03 13:00:21] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-03 13:00:21] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+6. [2025-06-03 13:00:21] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+7. [2025-06-03 13:00:21] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+8. [2025-06-03 13:00:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550037678.jpg
+9. [2025-06-03 13:00:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\315612874.jpg
+10. [2025-06-03 13:00:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\66519032.jpg
+11. [2025-06-03 13:00:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\304428962.jpg
+12. [2025-06-03 13:00:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\315588818.jpg
+13. [2025-06-03 13:00:21] Загальна кількість успішно збережених зображень за цей запуск: 5
+1. [2025-06-03 13:01:16] [Помилка] Не вдалося завантажити сторінку Rozetka: 404 Client Error: Not Found for url: https://rozetka.com.ua/ua/frozen-foods/c4627085/
+1. [2025-06-03 13:01:30] [Помилка] Не вдалося завантажити сторінку Rozetka: 404 Client Error: Not Found for url: https://rozetka.com.ua/ua/fruits-vegetables/c4626983/
+1. [2025-06-03 13:01:41] [Помилка] Не вдалося завантажити сторінку Rozetka: 404 Client Error: Not Found for url: https://rozetka.com.ua/ua/womens_clothing/c133888/
+2. [2025-06-03 13:02:25] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-03 13:02:25] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+6. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+7. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+8. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+9. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+10. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+11. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+12. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+13. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+14. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+15. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+16. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+17. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+18. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+19. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+20. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+21. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+22. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+23. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+24. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+25. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+26. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+27. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+28. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+29. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+30. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+31. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+32. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+33. [2025-06-03 13:02:25] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+34. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+35. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+36. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods/images/big_tile/418662589.png
+37. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+38. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+39. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+40. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+41. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+42. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+43. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+44. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+45. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+46. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+47. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+48. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+49. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+50. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+51. [2025-06-03 13:02:26] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+52. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+53. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+54. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+55. [2025-06-03 13:02:26] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+56. [2025-06-03 13:02:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488523782.jpg
+57. [2025-06-03 13:02:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525712953.jpg
+58. [2025-06-03 13:02:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494530272.jpg
+59. [2025-06-03 13:02:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488627221.jpg
+60. [2025-06-03 13:02:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493400359.jpg
+61. [2025-06-03 13:02:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488526863.jpg
+62. [2025-06-03 13:02:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489194431.jpg
+63. [2025-06-03 13:02:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489261770.jpg
+64. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492333957.jpg
+65. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488625227.jpg
+66. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493398493.jpg
+67. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525710528.jpg
+68. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489197185.jpg
+69. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489203094.jpg
+70. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489644041.jpg
+71. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834227.jpg
+72. [2025-06-03 13:02:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494513882.jpg
+73. [2025-06-03 13:02:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492528619.jpg
+74. [2025-06-03 13:02:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482837818.jpg
+75. [2025-06-03 13:02:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489206084.jpg
+76. [2025-06-03 13:02:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489203120.jpg
+77. [2025-06-03 13:02:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\556479038.jpg
+78. [2025-06-03 13:02:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834211.jpg
+79. [2025-06-03 13:02:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493398538.jpg
+80. [2025-06-03 13:02:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494523217.jpg
+81. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493399119.jpg
+82. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488526908.jpg
+83. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489208789.jpg
+84. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492579608.jpg
+85. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525169529.jpg
+86. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\490146257.jpg
+87. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493398487.jpg
+88. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834237.jpg
+89. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\486685405.jpg
+90. [2025-06-03 13:02:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\272451480.jpg
+91. [2025-06-03 13:02:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525290018.jpg
+92. [2025-06-03 13:02:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\539599784.jpg
+93. [2025-06-03 13:02:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493398500.jpg
+94. [2025-06-03 13:02:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489644031.jpg
+95. [2025-06-03 13:02:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\491413879.jpg
+96. [2025-06-03 13:02:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\273043587.jpg
+97. [2025-06-03 13:02:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482831522.jpg
+98. [2025-06-03 13:02:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\459019396.jpg
+99. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\429274557.jpg
+100. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834313.jpg
+101. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492340935.jpg
+102. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\161101274.jpg
+103. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\317313029.jpg
+104. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476725351.jpg
+105. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489257919.jpg
+106. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489208783.jpg
+107. [2025-06-03 13:02:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\506739774.jpg
+108. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\367475416.jpg
+109. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489644027.jpg
+110. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834238.jpg
+111. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\456263475.jpg
+112. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492334040.jpg
+113. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493375451.jpg
+114. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525333058.jpg
+115. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488523782.jpg
+116. [2025-06-03 13:02:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488526908.jpg
+117. [2025-06-03 13:02:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489644027.jpg
+118. [2025-06-03 13:02:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489206084.jpg
+119. [2025-06-03 13:02:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\161101274.jpg
+120. [2025-06-03 13:02:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489208789.jpg
+121. [2025-06-03 13:02:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834238.jpg
+122. [2025-06-03 13:02:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493398500.jpg
+123. [2025-06-03 13:02:33] Загальна кількість успішно збережених зображень за цей запуск: 67
+1. [2025-06-03 13:03:20] [Помилка] Не вдалося завантажити сторінку Rozetka: 404 Client Error: Not Found for url: https://rozetka.com.ua/ua/fruits-vegetables/c4626983/
+2. [2025-06-03 13:04:30] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-03 13:04:30] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+6. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+7. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+8. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+9. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+10. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+11. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+12. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/540382897.png
+13. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+14. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+15. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+16. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+17. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/540382897.png
+18. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+19. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+20. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+21. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+22. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+23. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods/images/big_tile/10608678.png
+24. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+25. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+26. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+27. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+28. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+29. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/540382897.png
+30. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+31. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+32. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+33. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+34. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+35. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+36. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+37. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+38. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+39. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+40. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+41. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/540382897.png
+42. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+43. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/540382897.png
+44. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+45. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+46. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+47. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+48. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+49. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+50. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+51. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+52. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+53. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+54. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+55. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+56. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/540382897.png
+57. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+58. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+59. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+60. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+61. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+62. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+63. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/540382897.png
+64. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+65. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+66. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+67. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+68. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+69. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+70. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+71. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+72. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+73. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+74. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+75. [2025-06-03 13:04:30] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+76. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+77. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+78. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+79. [2025-06-03 13:04:30] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+80. [2025-06-03 13:04:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\405104686.jpg
+81. [2025-06-03 13:04:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\359825406.jpg
+82. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\438151987.jpg
+83. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\420261127.jpg
+84. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\416061140.jpg
+85. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\359750042.jpg
+86. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\364517871.jpg
+87. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\542926748.jpg
+88. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\541298983.jpg
+89. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\410676228.jpg
+90. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\443218432.jpg
+91. [2025-06-03 13:04:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\219830212.jpg
+92. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\169000924.jpg
+93. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\11158377.jpg
+94. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\269120187.jpg
+95. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\444988604.jpg
+96. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\315228054.jpg
+97. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\444983527.jpg
+98. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\530351009.jpg
+99. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\396282971.jpg
+100. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\511674801.jpg
+101. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\519758529.webp
+102. [2025-06-03 13:04:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\484859673.jpg
+103. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\445929060.jpg
+104. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\437678069.jpg
+105. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\436104076.jpg
+106. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\530340511.jpg
+107. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\14840350.jpg
+108. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\17617987.jpg
+109. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\11158285.jpg
+110. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\406681745.jpg
+111. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\380584387.jpg
+112. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\408385298.jpg
+113. [2025-06-03 13:04:33] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\14841629.jpg
+114. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492590878.jpg
+115. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\181827426.jpg
+116. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\246632766.jpg
+117. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\413297291.jpg
+118. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\456771825.jpg
+119. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\418694519.jpg
+120. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\169498612.jpg
+121. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525692530.jpg
+122. [2025-06-03 13:04:34] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\396486791.jpg
+123. [2025-06-03 13:04:35] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\276324768.jpg
+124. [2025-06-03 13:04:35] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\331674505.jpg
+125. [2025-06-03 13:04:35] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\496665260.jpg
+126. [2025-06-03 13:04:35] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550021275.jpg
+127. [2025-06-03 13:04:35] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\33038243.jpg
+128. [2025-06-03 13:04:35] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\545387727.jpg
+129. [2025-06-03 13:04:35] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494593013.jpg
+130. [2025-06-03 13:04:36] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\437664660.jpg
+131. [2025-06-03 13:04:36] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\17617917.jpg
+132. [2025-06-03 13:04:36] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\277418272.jpg
+133. [2025-06-03 13:04:36] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\413299048.jpg
+134. [2025-06-03 13:04:36] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\191803165.jpg
+135. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\175052166.jpg
+136. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494583236.jpg
+137. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\456048576.jpg
+138. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\442877319.jpg
+139. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\14840350.jpg
+140. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\416061140.jpg
+141. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\169000924.jpg
+142. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\420261127.jpg
+143. [2025-06-03 13:04:37] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\359825406.jpg
+144. [2025-06-03 13:04:38] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\219830212.jpg
+145. [2025-06-03 13:04:38] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\418694519.jpg
+146. [2025-06-03 13:04:38] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\436104076.jpg
+147. [2025-06-03 13:04:38] Загальна кількість успішно збережених зображень за цей запуск: 67
+2. [2025-06-03 13:06:23] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-03 13:06:23] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+6. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+7. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+8. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods/images/big_tile/527121249.png
+9. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+10. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+11. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+12. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+13. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+14. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+15. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+16. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+17. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+18. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+19. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+20. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+21. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+22. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+23. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+24. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+25. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+26. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+27. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+28. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+29. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+30. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+31. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+32. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+33. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+34. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+35. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods/images/preview/527121249.png
+36. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+37. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+38. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+39. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+40. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+41. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+42. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+43. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+44. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+45. [2025-06-03 13:06:23] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+46. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+47. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+48. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+49. [2025-06-03 13:06:23] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+50. [2025-06-03 13:06:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228453341.jpg
+51. [2025-06-03 13:06:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228453380.jpg
+52. [2025-06-03 13:06:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\298901241.jpg
+53. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\298901245.jpg
+54. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228453344.jpg
+55. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\298901250.jpg
+56. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228453378.jpg
+57. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228454650.jpg
+58. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\380861129.jpg
+59. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228453379.jpg
+60. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228454592.jpg
+61. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228454049.jpg
+62. [2025-06-03 13:06:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228455870.jpg
+63. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991976.jpg
+64. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991886.jpg
+65. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353994426.jpg
+66. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\362207247.jpg
+67. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478511689.jpg
+68. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\546226252.jpg
+69. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\485250897.jpg
+70. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991882.jpg
+71. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\477707155.jpg
+72. [2025-06-03 13:06:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991891.jpg
+73. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991909.jpg
+74. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\477707164.jpg
+75. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353992000.jpg
+76. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\444422509.jpg
+77. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\402009570.jpg
+78. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478512112.jpg
+79. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478515956.jpg
+80. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055280.jpg
+81. [2025-06-03 13:06:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\444419993.jpg
+82. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\545426751.jpg
+83. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055298.jpg
+84. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991910.jpg
+85. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\361193386.jpg
+86. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\545429470.jpg
+87. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\402009606.jpg
+88. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\345617182.jpg
+89. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488605759.jpg
+90. [2025-06-03 13:06:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055265.jpg
+91. [2025-06-03 13:06:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055281.jpg
+92. [2025-06-03 13:06:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055277.jpg
+93. [2025-06-03 13:06:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\546226506.jpg
+94. [2025-06-03 13:06:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\361193387.jpg
+95. [2025-06-03 13:06:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\444422743.jpg
+96. [2025-06-03 13:06:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\546225657.jpg
+97. [2025-06-03 13:06:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991973.jpg
+98. [2025-06-03 13:06:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\401100800.jpg
+99. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488605748.jpg
+100. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\401100807.jpg
+101. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478519856.jpg
+102. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\508163393.jpg
+103. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504132423.jpg
+104. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055319.jpg
+105. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478512996.jpg
+106. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478515930.jpg
+107. [2025-06-03 13:06:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478517864.jpg
+108. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\485267349.jpg
+109. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\521383523.jpg
+110. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\521383534.jpg
+111. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055323.jpg
+112. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055316.webp
+113. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055322.jpg
+114. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\401184868.jpg
+115. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520055320.jpg
+116. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478513249.jpg
+117. [2025-06-03 13:06:30] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520042076.jpg
+118. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478513227.jpg
+119. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478513275.jpg
+120. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\444422876.jpg
+121. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\244748625.jpg
+122. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\362207247.jpg
+123. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353992000.jpg
+124. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991976.jpg
+125. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353991993.jpg
+126. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\477707155.jpg
+127. [2025-06-03 13:06:31] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\353994438.jpg
+128. [2025-06-03 13:06:32] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478511689.jpg
+129. [2025-06-03 13:06:32] Загальна кількість успішно збережених зображень за цей запуск: 79
+2. [2025-06-03 14:46:03] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-03 14:46:03] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+6. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+7. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+8. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+9. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+10. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+11. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+12. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+13. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+14. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+15. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+16. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+17. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+18. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+19. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+20. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+21. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+22. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+23. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+24. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+25. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+26. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+27. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+28. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+29. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+30. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+31. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+32. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+33. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+34. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+35. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+36. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+37. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+38. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+39. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+40. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+41. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+42. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+43. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+44. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+45. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+46. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+47. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+48. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+49. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+50. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+51. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+52. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+53. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+54. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+55. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+56. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+57. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+58. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+59. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+60. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+61. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+62. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+63. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+64. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+65. [2025-06-03 14:46:03] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+66. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+67. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+68. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+69. [2025-06-03 14:46:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+70. [2025-06-03 14:46:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505427757.jpg
+71. [2025-06-03 14:46:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+72. [2025-06-03 14:46:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+73. [2025-06-03 14:46:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819817.jpg
+74. [2025-06-03 14:46:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\553289784.jpg
+75. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\543396546.jpg
+76. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+77. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487792100.jpg
+78. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\543412364.jpg
+79. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+80. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+81. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523624871.jpg
+82. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487771146.jpg
+83. [2025-06-03 14:46:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507062959.jpg
+84. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796534.webp
+85. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\221214139.jpg
+86. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505511671.jpg
+87. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+88. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523631262.jpg
+89. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\509868465.jpg
+90. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505431231.jpg
+91. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+92. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+93. [2025-06-03 14:46:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\540885112.jpg
+94. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196647210.jpg
+95. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505424359.jpg
+96. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+97. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+98. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523634241.jpg
+99. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586733.jpg
+100. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487790448.jpg
+101. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487793279.jpg
+102. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\527857628.jpg
+103. [2025-06-03 14:46:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196647236.jpg
+104. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819658.jpg
+105. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505431170.jpg
+106. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+107. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+108. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487776808.jpg
+109. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523624886.jpg
+110. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523627702.jpg
+111. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487792195.jpg
+112. [2025-06-03 14:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\527947635.jpg
+113. [2025-06-03 14:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+114. [2025-06-03 14:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523631281.jpg
+115. [2025-06-03 14:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507507071.jpg
+116. [2025-06-03 14:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\475554991.jpg
+117. [2025-06-03 14:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+118. [2025-06-03 14:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507069010.jpg
+119. [2025-06-03 14:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+120. [2025-06-03 14:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\377120220.jpg
+121. [2025-06-03 14:46:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886490.jpg
+122. [2025-06-03 14:46:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586802.jpg
+123. [2025-06-03 14:46:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\554984034.jpg
+124. [2025-06-03 14:46:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\527955515.jpg
+125. [2025-06-03 14:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+126. [2025-06-03 14:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\527900140.jpg
+127. [2025-06-03 14:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+128. [2025-06-03 14:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505511746.jpg
+129. [2025-06-03 14:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+130. [2025-06-03 14:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\398092327.jpg
+131. [2025-06-03 14:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\543347485.jpg
+132. [2025-06-03 14:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473821172.jpg
+133. [2025-06-03 14:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523601645.jpg
+134. [2025-06-03 14:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\398092199.jpg
+135. [2025-06-03 14:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\551622563.jpg
+136. [2025-06-03 14:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523634222.jpg
+137. [2025-06-03 14:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507061193.jpg
+138. [2025-06-03 14:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796534.webp
+139. [2025-06-03 14:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\554524991.jpg
+140. [2025-06-03 14:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\554524989.jpg
+141. [2025-06-03 14:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\533573528.jpg
+142. [2025-06-03 14:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\530243855.jpg
+143. [2025-06-03 14:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525395421.jpg
+144. [2025-06-03 14:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196647253.jpg
+145. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505427738.jpg
+146. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+147. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+148. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523638219.jpg
+149. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\526085702.jpg
+150. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505511697.jpg
+151. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+152. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\554992441.jpg
+153. [2025-06-03 14:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196647236.jpg
+154. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507072702.jpg
+155. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+156. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507072713.jpg
+157. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+158. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473822717.jpg
+159. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886537.jpg
+160. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886490.jpg
+161. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819817.jpg
+162. [2025-06-03 14:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507068989.jpg
+163. [2025-06-03 14:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523604275.jpg
+164. [2025-06-03 14:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507068984.jpg
+165. [2025-06-03 14:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487777137.jpg
+166. [2025-06-03 14:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507069020.jpg
+167. [2025-06-03 14:46:15] Загальна кількість успішно збережених зображень за цей запуск: 97
+2. [2025-06-04 07:46:07] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-04 07:46:07] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+6. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+7. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+8. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+9. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+10. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+11. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+12. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+13. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+14. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+15. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+16. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+17. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+18. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+19. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+20. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+21. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+22. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+23. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+24. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+25. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+26. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+27. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+28. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+29. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+30. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+31. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+32. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+33. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+34. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+35. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+36. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+37. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+38. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+39. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+40. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+41. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+42. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+43. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+44. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+45. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+46. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+47. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+48. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+49. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods/images/big_tile/496198839.png
+50. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+51. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+52. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+53. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+54. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+55. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+56. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+57. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+58. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+59. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+60. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+61. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+62. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+63. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+64. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+65. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+66. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+67. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+68. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+69. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+70. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+71. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+72. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+73. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+74. [2025-06-04 07:46:07] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+75. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+76. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+77. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+78. [2025-06-04 07:46:07] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+79. [2025-06-04 07:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819817.jpg
+80. [2025-06-04 07:46:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888082.jpg
+81. [2025-06-04 07:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507062959.jpg
+82. [2025-06-04 07:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796534.webp
+83. [2025-06-04 07:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586733.jpg
+84. [2025-06-04 07:46:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487790448.jpg
+85. [2025-06-04 07:46:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886490.jpg
+86. [2025-06-04 07:46:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523640536.jpg
+87. [2025-06-04 07:46:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523624886.jpg
+88. [2025-06-04 07:46:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\398092120.jpg
+89. [2025-06-04 07:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\364623614.jpg
+90. [2025-06-04 07:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468031188.jpg
+91. [2025-06-04 07:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473822717.jpg
+92. [2025-06-04 07:46:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454846723.jpg
+93. [2025-06-04 07:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523624871.jpg
+94. [2025-06-04 07:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507069010.jpg
+95. [2025-06-04 07:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+96. [2025-06-04 07:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507063371.jpg
+97. [2025-06-04 07:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+98. [2025-06-04 07:46:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487776808.jpg
+99. [2025-06-04 07:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\377122165.jpg
+100. [2025-06-04 07:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\284913536.jpg
+101. [2025-06-04 07:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\474209104.jpg
+102. [2025-06-04 07:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\221214139.jpg
+103. [2025-06-04 07:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549580098.jpg
+104. [2025-06-04 07:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\543342693.jpg
+105. [2025-06-04 07:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\463666856.jpg
+106. [2025-06-04 07:46:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549651739.jpg
+107. [2025-06-04 07:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\536045302.jpg
+108. [2025-06-04 07:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\463661609.jpg
+109. [2025-06-04 07:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844749.jpg
+110. [2025-06-04 07:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523634241.jpg
+111. [2025-06-04 07:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\460338671.jpg
+112. [2025-06-04 07:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886611.jpg
+113. [2025-06-04 07:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\426647753.jpg
+114. [2025-06-04 07:46:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888193.jpg
+115. [2025-06-04 07:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549632300.jpg
+116. [2025-06-04 07:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478999808.jpg
+117. [2025-06-04 07:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\435134985.jpg
+118. [2025-06-04 07:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478997936.jpg
+119. [2025-06-04 07:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586802.jpg
+120. [2025-06-04 07:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476481564.jpg
+121. [2025-06-04 07:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\518377501.jpg
+122. [2025-06-04 07:46:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\449033239.jpg
+123. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549634585.jpg
+124. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473821172.jpg
+125. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\451477218.jpg
+126. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\469517414.jpg
+127. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504715917.jpg
+128. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844464.jpg
+129. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504692246.jpg
+130. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504104100.jpg
+131. [2025-06-04 07:46:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476276271.webp
+132. [2025-06-04 07:46:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479001074.jpg
+133. [2025-06-04 07:46:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\414082780.jpg
+134. [2025-06-04 07:46:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479512887.jpg
+135. [2025-06-04 07:46:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476512023.jpg
+136. [2025-06-04 07:46:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\471090168.jpg
+137. [2025-06-04 07:46:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454842866.jpg
+138. [2025-06-04 07:46:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479937198.jpg
+139. [2025-06-04 07:46:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\471092937.jpg
+140. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505427757.jpg
+141. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+142. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+143. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\553289784.jpg
+144. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\449033216.jpg
+145. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844823.jpg
+146. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886490.jpg
+147. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\518373180.jpg
+148. [2025-06-04 07:46:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507068989.jpg
+149. [2025-06-04 07:46:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523604275.jpg
+150. [2025-06-04 07:46:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507068984.jpg
+151. [2025-06-04 07:46:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487777137.jpg
+152. [2025-06-04 07:46:18] Загальна кількість успішно збережених зображень за цей запуск: 73
+2. [2025-06-04 08:36:12] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-04 08:36:12] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg
+5. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+6. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+7. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+8. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+9. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+10. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+11. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+12. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+13. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+14. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+15. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+16. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+17. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+18. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+19. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+20. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+21. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+22. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+23. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+24. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+25. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+26. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+27. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+28. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+29. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+30. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+31. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+32. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+33. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+34. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+35. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+36. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+37. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+38. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+39. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+40. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+41. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+42. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+43. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+44. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+45. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+46. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+47. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+48. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+49. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods/images/big_tile/496198839.png
+50. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+51. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+52. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+53. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+54. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+55. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+56. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+57. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+58. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+59. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+60. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+61. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+62. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+63. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+64. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+65. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+66. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+67. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+68. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+69. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+70. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+71. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+72. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+73. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+74. [2025-06-04 08:36:12] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+75. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+76. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+77. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+78. [2025-06-04 08:36:12] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+79. [2025-06-04 08:36:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819817.jpg
+80. [2025-06-04 08:36:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888082.jpg
+81. [2025-06-04 08:36:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507062959.jpg
+82. [2025-06-04 08:36:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796534.webp
+83. [2025-06-04 08:36:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586733.jpg
+84. [2025-06-04 08:36:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487790448.jpg
+85. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886490.jpg
+86. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523640536.jpg
+87. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523624886.jpg
+88. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\398092120.jpg
+89. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\364623614.jpg
+90. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468031188.jpg
+91. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473822717.jpg
+92. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454846723.jpg
+93. [2025-06-04 08:36:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523624871.jpg
+94. [2025-06-04 08:36:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507069010.jpg
+95. [2025-06-04 08:36:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+96. [2025-06-04 08:36:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507063371.jpg
+97. [2025-06-04 08:36:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+98. [2025-06-04 08:36:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487776808.jpg
+99. [2025-06-04 08:36:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\377122165.jpg
+100. [2025-06-04 08:36:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\284913536.jpg
+101. [2025-06-04 08:36:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\474209104.jpg
+102. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\221214139.jpg
+103. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549580098.jpg
+104. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\543342693.jpg
+105. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\463666856.jpg
+106. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549651739.jpg
+107. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\536045302.jpg
+108. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\463661609.jpg
+109. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844749.jpg
+110. [2025-06-04 08:36:15] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523634241.jpg
+111. [2025-06-04 08:36:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\460338671.jpg
+112. [2025-06-04 08:36:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886611.jpg
+113. [2025-06-04 08:36:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\426647753.jpg
+114. [2025-06-04 08:36:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888193.jpg
+115. [2025-06-04 08:36:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549632300.jpg
+116. [2025-06-04 08:36:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478999808.jpg
+117. [2025-06-04 08:36:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\435134985.jpg
+118. [2025-06-04 08:36:16] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478997936.jpg
+119. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586802.jpg
+120. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476481564.jpg
+121. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\518377501.jpg
+122. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\449033239.jpg
+123. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549634585.jpg
+124. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473821172.jpg
+125. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\451477218.jpg
+126. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\469517414.jpg
+127. [2025-06-04 08:36:17] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504715917.jpg
+128. [2025-06-04 08:36:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844464.jpg
+129. [2025-06-04 08:36:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504692246.jpg
+130. [2025-06-04 08:36:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504104100.jpg
+131. [2025-06-04 08:36:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476276271.webp
+132. [2025-06-04 08:36:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479001074.jpg
+133. [2025-06-04 08:36:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\414082780.jpg
+134. [2025-06-04 08:36:18] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479512887.jpg
+135. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476512023.jpg
+136. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\471090168.jpg
+137. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454842866.jpg
+138. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479937198.jpg
+139. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\471092937.jpg
+140. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505427757.jpg
+141. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+142. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+143. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\553289784.jpg
+144. [2025-06-04 08:36:19] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\449033216.jpg
+145. [2025-06-04 08:36:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844823.jpg
+146. [2025-06-04 08:36:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886490.jpg
+147. [2025-06-04 08:36:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\518373180.jpg
+148. [2025-06-04 08:36:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507068989.jpg
+149. [2025-06-04 08:36:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523604275.jpg
+150. [2025-06-04 08:36:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507068984.jpg
+151. [2025-06-04 08:36:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487777137.jpg
+152. [2025-06-04 08:36:20] Загальна кількість успішно збережених зображень за цей запуск: 73
+2. [2025-06-04 13:06:06] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+5. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+6. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+7. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+8. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+9. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+10. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+11. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+12. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+13. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+14. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+15. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+16. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+17. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+18. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+19. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+20. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+21. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+22. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+23. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+24. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+25. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+26. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+27. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+28. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+29. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+30. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+31. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+32. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+33. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+34. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+35. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+36. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+37. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/536707624.png
+38. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+39. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+40. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+41. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+42. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+43. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+44. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+45. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+46. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+47. [2025-06-04 13:06:06] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+48. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+49. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+50. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+51. [2025-06-04 13:06:06] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+52. [2025-06-04 13:06:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488523782.jpg
+53. [2025-06-04 13:06:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494530272.jpg
+54. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488526863.jpg
+55. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489194431.jpg
+56. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493400359.jpg
+57. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\490149998.jpg
+58. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488625227.jpg
+59. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493398493.jpg
+60. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489203094.jpg
+61. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525710528.jpg
+62. [2025-06-04 13:06:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492528619.jpg
+63. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834227.jpg
+64. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489644041.jpg
+65. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482837818.jpg
+66. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494513882.jpg
+67. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492333957.jpg
+68. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489206084.jpg
+69. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493398538.jpg
+70. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489203120.jpg
+71. [2025-06-04 13:06:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834211.jpg
+72. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488526908.jpg
+73. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\556479038.jpg
+74. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489208789.jpg
+75. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493399119.jpg
+76. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492579608.jpg
+77. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525169529.jpg
+78. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834237.jpg
+79. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494523217.jpg
+80. [2025-06-04 13:06:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\525290018.jpg
+81. [2025-06-04 13:06:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\491413879.jpg
+82. [2025-06-04 13:06:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489644031.jpg
+83. [2025-06-04 13:06:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482831522.jpg
+84. [2025-06-04 13:06:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\273043587.jpg
+85. [2025-06-04 13:06:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492340935.jpg
+86. [2025-06-04 13:06:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\486685405.jpg
+87. [2025-06-04 13:06:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482834313.jpg
+88. [2025-06-04 13:06:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\459019396.jpg
+89. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489257919.jpg
+90. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482837946.jpg
+91. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\272451480.jpg
+92. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476725351.jpg
+93. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489208783.jpg
+94. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\506739774.jpg
+95. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493375451.jpg
+96. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550664100.jpg
+97. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\161101274.jpg
+98. [2025-06-04 13:06:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492334040.jpg
+99. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\367470602.jpg
+100. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493399097.jpg
+101. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\456263475.jpg
+102. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\317313029.jpg
+103. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489008074.jpg
+104. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\161345346.jpg
+105. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489644027.jpg
+106. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476725590.jpg
+107. [2025-06-04 13:06:12] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\445284798.jpg
+108. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\317393361.jpg
+109. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\367475416.jpg
+110. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\367475056.jpg
+111. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\490054000.jpg
+112. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488523782.jpg
+113. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\488526908.jpg
+114. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\269866617.jpg
+115. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489644027.jpg
+116. [2025-06-04 13:06:13] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489206084.jpg
+117. [2025-06-04 13:06:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\161101274.jpg
+118. [2025-06-04 13:06:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489208789.jpg
+119. [2025-06-04 13:06:14] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493399097.jpg
+120. [2025-06-04 13:06:14] Загальна кількість успішно збережених зображень за цей запуск: 68
+2. [2025-06-04 13:07:20] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+5. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+6. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+7. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+8. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+9. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+10. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+11. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+12. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+13. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+14. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+15. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+16. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+17. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+18. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+19. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+20. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+21. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+22. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+23. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+24. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+25. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+26. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+27. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+28. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+29. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+30. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+31. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+32. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+33. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+34. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+35. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+36. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+37. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+38. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+39. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+40. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+41. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+42. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+43. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+44. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+45. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/466730184.png
+46. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+47. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+48. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods/images/big_tile/496198839.png
+49. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+50. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+51. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+52. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+53. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+54. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+55. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+56. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+57. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+58. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+59. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+60. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+61. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+62. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+63. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+64. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+65. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+66. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+67. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+68. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+69. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+70. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+71. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+72. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+73. [2025-06-04 13:07:20] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+74. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+75. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+76. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+77. [2025-06-04 13:07:20] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+78. [2025-06-04 13:07:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473819817.jpg
+79. [2025-06-04 13:07:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888082.jpg
+80. [2025-06-04 13:07:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507062959.jpg
+81. [2025-06-04 13:07:20] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796534.webp
+82. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586733.jpg
+83. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487790448.jpg
+84. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886490.jpg
+85. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523640536.jpg
+86. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523624886.jpg
+87. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\398092120.jpg
+88. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\364623614.jpg
+89. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468031188.jpg
+90. [2025-06-04 13:07:21] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473822717.jpg
+91. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454846723.jpg
+92. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523624871.jpg
+93. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507069010.jpg
+94. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+95. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507063371.jpg
+96. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\555796405.webp
+97. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487776808.jpg
+98. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\377122165.jpg
+99. [2025-06-04 13:07:22] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\284913536.jpg
+100. [2025-06-04 13:07:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\474209104.jpg
+101. [2025-06-04 13:07:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\221214139.jpg
+102. [2025-06-04 13:07:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549580098.jpg
+103. [2025-06-04 13:07:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\543342693.jpg
+104. [2025-06-04 13:07:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\463666856.jpg
+105. [2025-06-04 13:07:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549651739.jpg
+106. [2025-06-04 13:07:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\536045302.jpg
+107. [2025-06-04 13:07:23] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\463661609.jpg
+108. [2025-06-04 13:07:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844749.jpg
+109. [2025-06-04 13:07:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523634241.jpg
+110. [2025-06-04 13:07:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\460338671.jpg
+111. [2025-06-04 13:07:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886611.jpg
+112. [2025-06-04 13:07:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\426647753.jpg
+113. [2025-06-04 13:07:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468888193.jpg
+114. [2025-06-04 13:07:24] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549632300.jpg
+115. [2025-06-04 13:07:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478999808.jpg
+116. [2025-06-04 13:07:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\435134985.jpg
+117. [2025-06-04 13:07:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478997936.jpg
+118. [2025-06-04 13:07:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523586802.jpg
+119. [2025-06-04 13:07:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476481564.jpg
+120. [2025-06-04 13:07:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\518377501.jpg
+121. [2025-06-04 13:07:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\449033239.jpg
+122. [2025-06-04 13:07:25] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549634585.jpg
+123. [2025-06-04 13:07:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473821172.jpg
+124. [2025-06-04 13:07:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\451477218.jpg
+125. [2025-06-04 13:07:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\469517414.jpg
+126. [2025-06-04 13:07:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504715917.jpg
+127. [2025-06-04 13:07:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844464.jpg
+128. [2025-06-04 13:07:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504692246.jpg
+129. [2025-06-04 13:07:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\504104100.jpg
+1. [2025-06-04 13:07:26] [Помилка] Не вдалося завантажити сторінку Rozetka: 404 Client Error: Not Found for url: https://rozetka.com.ua/ua/sweets/c4627097/
+130. [2025-06-04 13:07:26] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476276271.webp
+131. [2025-06-04 13:07:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479001074.jpg
+132. [2025-06-04 13:07:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\414082780.jpg
+133. [2025-06-04 13:07:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479512887.jpg
+134. [2025-06-04 13:07:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476512023.jpg
+135. [2025-06-04 13:07:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\471090168.jpg
+136. [2025-06-04 13:07:27] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454842866.jpg
+137. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\479937198.jpg
+138. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\471092937.jpg
+139. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505427757.jpg
+140. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196840150.jpg
+141. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505438808.jpg
+142. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\553289784.jpg
+143. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\449033216.jpg
+144. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\454844823.jpg
+145. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468886490.jpg
+146. [2025-06-04 13:07:28] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\518373180.jpg
+147. [2025-06-04 13:07:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507068989.jpg
+148. [2025-06-04 13:07:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523604275.jpg
+149. [2025-06-04 13:07:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507068984.jpg
+150. [2025-06-04 13:07:29] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487777137.jpg
+151. [2025-06-04 13:07:29] Загальна кількість успішно збережених зображень за цей запуск: 73
+1. [2025-06-04 13:07:37] [Помилка] Не вдалося завантажити сторінку Rozetka: 404 Client Error: Not Found for url: https://rozetka.com.ua/ua/sweets/c4627097/
+2. [2025-06-04 13:08:57] [Пропущено] Зображення з ознакою 'banner': https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg
+3. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+5. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+6. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+7. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/490936406.png
+8. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+9. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+10. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+11. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+12. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+13. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+14. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/490936406.png
+15. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/490936406.png
+16. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+17. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+18. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+19. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+20. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+21. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+22. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+23. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+24. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+25. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+26. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+27. [2025-06-04 13:08:57] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+28. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+29. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+30. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+31. [2025-06-04 13:08:57] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+32. [2025-06-04 13:08:57] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228456078.jpg
+33. [2025-06-04 13:08:57] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228456060.jpg
+34. [2025-06-04 13:08:57] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228456115.jpg
+35. [2025-06-04 13:08:57] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228456070.jpg
+36. [2025-06-04 13:08:57] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228456068.jpg
+37. [2025-06-04 13:08:57] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228456066.jpg
+38. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\228456067.jpg
+39. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\554604737.jpg
+40. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552069424.jpg
+41. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\554604775.jpg
+42. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552069511.jpg
+43. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\554601408.jpg
+44. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552070123.jpg
+45. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552072424.jpg
+46. [2025-06-04 13:08:58] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552071450.jpg
+47. [2025-06-04 13:08:59] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552070992.jpg
+48. [2025-06-04 13:08:59] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552071358.jpg
+49. [2025-06-04 13:08:59] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552072429.jpg
+50. [2025-06-04 13:08:59] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552075149.jpg
+51. [2025-06-04 13:08:59] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552076354.jpg
+52. [2025-06-04 13:08:59] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\552075595.jpg
+53. [2025-06-04 13:08:59] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\496337379.jpg
+54. [2025-06-04 13:08:59] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\375851164.jpg
+55. [2025-06-04 13:09:00] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\375850271.jpg
+56. [2025-06-04 13:09:00] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\524538977.jpg
+57. [2025-06-04 13:09:00] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\496336013.jpg
+58. [2025-06-04 13:09:00] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505800263.jpg
+59. [2025-06-04 13:09:00] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505804373.jpg
+60. [2025-06-04 13:09:00] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\388909367.jpg
+61. [2025-06-04 13:09:00] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505833903.jpg
+62. [2025-06-04 13:09:00] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\232398191.jpg
+63. [2025-06-04 13:09:01] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\496336032.jpg
+64. [2025-06-04 13:09:01] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\388665233.jpg
+65. [2025-06-04 13:09:01] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\281379361.jpg
+66. [2025-06-04 13:09:01] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\285912146.jpg
+67. [2025-06-04 13:09:01] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\548317279.jpg
+68. [2025-06-04 13:09:01] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\285911493.jpg
+69. [2025-06-04 13:09:01] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\496336159.jpg
+70. [2025-06-04 13:09:01] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\380239827.jpg
+71. [2025-06-04 13:09:02] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505837971.jpg
+72. [2025-06-04 13:09:02] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\357753262.jpg
+73. [2025-06-04 13:09:02] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\375851166.jpg
+74. [2025-06-04 13:09:02] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\496336071.jpg
+75. [2025-06-04 13:09:02] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\167957436.jpg
+76. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\524537204.jpg
+77. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\445254079.jpg
+78. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\375851176.jpg
+79. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\445256380.jpg
+80. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\375851178.jpg
+81. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489249511.jpg
+82. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\375851180.jpg
+83. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\430871350.jpg
+84. [2025-06-04 13:09:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\429351915.jpg
+85. [2025-06-04 13:09:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\388542277.jpg
+86. [2025-06-04 13:09:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\481257122.jpg
+87. [2025-06-04 13:09:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\388638647.jpg
+88. [2025-06-04 13:09:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\478085333.jpg
+89. [2025-06-04 13:09:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\147437827.jpg
+90. [2025-06-04 13:09:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505811349.jpg
+91. [2025-06-04 13:09:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\388909389.jpg
+92. [2025-06-04 13:09:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\10946368.jpg
+93. [2025-06-04 13:09:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\10829159.jpg
+94. [2025-06-04 13:09:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505830254.jpg
+95. [2025-06-04 13:09:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\445255242.jpg
+96. [2025-06-04 13:09:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\534692797.jpg
+97. [2025-06-04 13:09:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\398900453.jpg
+98. [2025-06-04 13:09:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\380228186.jpg
+99. [2025-06-04 13:09:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\524537204.jpg
+100. [2025-06-04 13:09:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\496337379.jpg
+101. [2025-06-04 13:09:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\388665233.jpg
+102. [2025-06-04 13:09:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\398900453.jpg
+103. [2025-06-04 13:09:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\57159397.jpg
+104. [2025-06-04 13:09:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\380239827.jpg
+105. [2025-06-04 13:09:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505804373.jpg
+106. [2025-06-04 13:09:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505833903.jpg
+107. [2025-06-04 13:09:06] Загальна кількість успішно збережених зображень за цей запуск: 75
+2. [2025-06-05 15:17:03] [Пропущено] Зображення з ознакою 'banner': https://content1.rozetka.com.ua/banner_header/image_ua/original/557072646.png
+3. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/mb_logo/image_site_mini_logo/original/555588633.svg
+4. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+5. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+6. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+7. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+8. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+9. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+10. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+11. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+12. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+13. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+14. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+15. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+16. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+17. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+18. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+19. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+20. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+21. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+22. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+23. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+24. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+25. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+26. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+27. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+28. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+29. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+30. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+31. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+32. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+33. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+34. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+35. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+36. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+37. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+38. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+39. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+40. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content1.rozetka.com.ua/goods_tags/images_ua/original/545098365.png
+41. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content.rozetka.com.ua/goods_tags/images_ua/original/550674707.png
+42. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+43. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+44. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+45. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+46. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+47. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+48. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+49. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+50. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+51. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+52. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+53. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+54. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+55. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+56. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+57. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+58. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://content2.rozetka.com.ua/goods_tags/images_ua/original/406609057.png
+59. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+60. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+61. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+62. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+63. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+64. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+65. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+66. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+67. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg
+68. [2025-06-05 15:17:03] [Пропущено] Зображення з ознакою 'banner': https://xl-static.rozetka.com.ua/assets/img/design/apps-banner-qr.png
+69. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-appstore-ua.svg
+70. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/button-google-play-ua.svg
+71. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/mastercard-logo.svg
+72. [2025-06-05 15:17:03] [Пропущено] Формат файлу не підтримується (svg/png): https://xl-static.rozetka.com.ua/assets/img/design/visa-logo.svg
+73. [2025-06-05 15:17:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\370191080.jpg
+74. [2025-06-05 15:17:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\480833660.jpg
+75. [2025-06-05 15:17:03] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\480321533.jpg
+76. [2025-06-05 15:17:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\144249716.jpg
+77. [2025-06-05 15:17:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\527361430.jpg
+78. [2025-06-05 15:17:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\389877408.jpg
+79. [2025-06-05 15:17:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\510148789.jpg
+80. [2025-06-05 15:17:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\497624560.jpg
+81. [2025-06-05 15:17:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\396958583.jpg
+82. [2025-06-05 15:17:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\549985703.jpg
+83. [2025-06-05 15:17:04] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\443670819.jpg
+84. [2025-06-05 15:17:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\471995888.jpg
+85. [2025-06-05 15:17:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550681928.jpg
+86. [2025-06-05 15:17:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\513842221.jpg
+87. [2025-06-05 15:17:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\443864285.jpg
+88. [2025-06-05 15:17:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\486195987.jpg
+89. [2025-06-05 15:17:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\493243228.jpg
+90. [2025-06-05 15:17:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\346250105.jpg
+91. [2025-06-05 15:17:05] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550621602.jpg
+92. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\362592851.jpg
+93. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\523974716.jpg
+94. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550742242.jpg
+95. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\484458567.jpg
+96. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468543181.jpg
+97. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\520817632.jpg
+98. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\395969845.jpg
+99. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\428053024.jpg
+100. [2025-06-05 15:17:06] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\505821017.jpg
+101. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\503805097.jpg
+102. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507146698.jpg
+103. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196657201.jpg
+104. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\472002263.jpg
+105. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\474178244.jpg
+106. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\334675373.jpg
+107. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\457244988.jpg
+108. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550736105.jpg
+109. [2025-06-05 15:17:07] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\506632780.jpg
+110. [2025-06-05 15:17:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\492475965.jpg
+111. [2025-06-05 15:17:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\507150617.jpg
+112. [2025-06-05 15:17:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\196657201.jpg
+113. [2025-06-05 15:17:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\501942670.jpg
+114. [2025-06-05 15:17:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\487662903.jpg
+115. [2025-06-05 15:17:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\485311804.jpg
+116. [2025-06-05 15:17:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\506584032.jpg
+117. [2025-06-05 15:17:08] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\534751716.jpg
+118. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550748052.jpg
+119. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\468648720.jpg
+120. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\443864309.jpg
+121. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\460455816.jpg
+122. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\363526054.jpg
+123. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\325403717.jpg
+124. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489452532.jpg
+125. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\476577322.jpg
+126. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\494576877.jpg
+127. [2025-06-05 15:17:09] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\482923199.jpg
+128. [2025-06-05 15:17:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\400212551.jpg
+129. [2025-06-05 15:17:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\473869189.jpg
+130. [2025-06-05 15:17:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\380702589.jpg
+131. [2025-06-05 15:17:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\510160761.jpg
+132. [2025-06-05 15:17:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\350881987.jpg
+133. [2025-06-05 15:17:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\377524993.jpg
+134. [2025-06-05 15:17:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\550050302.jpg
+135. [2025-06-05 15:17:10] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\334492324.jpg
+136. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\489458759.jpg
+137. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\144249716.jpg
+138. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\443864285.jpg
+139. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\474547330.jpg
+140. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\350881987.jpg
+141. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\428053024.jpg
+142. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\334492324.jpg
+143. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\334675373.jpg
+144. [2025-06-05 15:17:11] [Збережено] D:/PycharmProjects/NeuroNetworks/web_interface/uploads\400212551.jpg
+145. [2025-06-05 15:17:11] Загальна кількість успішно збережених зображень за цей запуск: 72
+1. [2025-06-16 22:44:07] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/smartfony/c80003/
+1. [2025-06-16 22:44:22] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/konfety/c4625025/
+1. [2025-06-16 22:44:32] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/smartfony/c80003/
+1. [2025-06-16 22:44:38] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/hair_dryers/c80188/
+1. [2025-06-16 22:44:51] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/womens_clothing/c133888/
+1. [2025-06-16 22:45:30] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/konfety/c4625025/
+1. [2025-06-16 22:50:59] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/konfety/c4625025/
+1. [2025-06-16 22:51:01] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/smartfony/c80003/
+1. [2025-06-16 22:53:34] [Помилка] Не вдалося завантажити сторінку Rozetka: 403 Client Error: Forbidden for url: https://rozetka.com.ua/ua/game-consoles/c80167/

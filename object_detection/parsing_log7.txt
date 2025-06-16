@@ -1,0 +1,31 @@
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content2.rozetka.com.ua/banner_header/image_ua/original/556285500.jpg', alt='розігріваємо знижками до -55%', class='img'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://xl-static.rozetka.com.ua/assets/img/design/logos/war_banner.svg', alt='повернись живим', class=''
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content1.rozetka.com.ua/banner_main/images_ua/big/555233038.jpg', alt='легке прасування щодня — знижки на праски та прасувальні системи', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content.rozetka.com.ua/banner_main/images_ua/big/556285388.jpg', alt='розігріваємо знижками до -55%', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content.rozetka.com.ua/banner_main/images_ua/big/555364051.jpg', alt='спеціально до турне трьох «золотих м’ячів»', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content2.rozetka.com.ua/banner_main/images_ua/big/555796601.jpg', alt='навушники galaxy buds3|buds3 pro до смартфонів galaxy s25|s25+|s25ultra у подарунок, оплата частинами до 25 платежів', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content1.rozetka.com.ua/banner_main/images_ua/big/551118063.jpg', alt='генеральне прибирання', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content1.rozetka.com.ua/banner_main/images_ua/big/545056630.jpg', alt='товари з rozetka. безкоштовно у відділення', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content1.rozetka.com.ua/banner_main/images_ua/big/555366741.jpg', alt='акція! смартфони iphone 16 pro/pro max в оплату частинами до 10 платежів від приватбанк!', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content2.rozetka.com.ua/banner_main/images_ua/big/555361005.jpg', alt='товари для спорту до -50%', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content1.rozetka.com.ua/banner_main/images_ua/big/555233038.jpg', alt='легке прасування щодня — знижки на праски та прасувальні системи', class='slide-image'
+[2025-06-03 00:37:04] Пропущено (tag/banner): src='https://content.rozetka.com.ua/banner_main/images_ua/big/556285388.jpg', alt='розігріваємо знижками до -55%', class='slide-image'
+[2025-06-03 00:37:04] Знайдено 18 зображень.
+[2025-06-03 00:37:04] 1. Завантажено: https://content.rozetka.com.ua/goods/images/preview/422471599.jpg
+[2025-06-03 00:37:04] 2. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/399157833.jpg
+[2025-06-03 00:37:04] 3. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/19361556.jpg
+[2025-06-03 00:37:04] 4. Завантажено: https://content1.rozetka.com.ua/goods/images/preview/384576365.jpg
+[2025-06-03 00:37:04] 5. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/430106062.jpg
+[2025-06-03 00:37:04] 6. Завантажено: https://content1.rozetka.com.ua/goods/images/preview/281691557.jpg
+[2025-06-03 00:37:04] 7. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/361590592.jpg
+[2025-06-03 00:37:04] 8. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/306492460.jpg
+[2025-06-03 00:37:04] 9. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/439512365.jpg
+[2025-06-03 00:37:05] 10. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/50386135.jpg
+[2025-06-03 00:37:05] 11. Завантажено: https://content.rozetka.com.ua/goods/images/preview/411559467.jpg
+[2025-06-03 00:37:05] 12. Завантажено: https://content.rozetka.com.ua/goods/images/preview/353468914.jpg
+[2025-06-03 00:37:05] 13. Завантажено: https://content1.rozetka.com.ua/goods/images/preview/124679735.jpg
+[2025-06-03 00:37:05] 14. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/489021579.jpg
+[2025-06-03 00:37:05] 15. Завантажено: https://content1.rozetka.com.ua/goods/images/preview/302547801.jpg
+[2025-06-03 00:37:05] 16. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/392498781.jpg
+[2025-06-03 00:37:05] 17. Завантажено: https://content2.rozetka.com.ua/goods/images/preview/34285641.jpg
+[2025-06-03 00:37:05] 18. Завантажено: https://content.rozetka.com.ua/goods/images/preview/529430684.jpg

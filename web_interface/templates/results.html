@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Результати перевірки</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            background: linear-gradient(-45deg, #f6e28c, #f2df66, #b8e38a, #95dfe7, #96a3e6, #96a3e6);
+            background-size: 600% 600%;
+            animation: gradientBG 15s ease infinite;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 40px 20px;
+            min-height: 100vh;
+            box-sizing: border-box;
+        }
+
+        @keyframes gradientBG {
+            0%   { background-position: 0% 50%; }
+            25%  { background-position: 50% 0%; }
+            50%  { background-position: 100% 50%; }
+            75%  { background-position: 50% 100%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 30px 40px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            max-width: 900px;
+            width: 100%;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            color: #189100;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            border-radius: 12px;
+            box-shadow: 0 6px 18px rgba(24, 145, 0, 0.15);
+            border: none;
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+
+        .card-header {
+            background-color: #d7f0b1;
+            color: #126400;
+            font-weight: 700;
+            font-size: 1.25rem;
+            padding: 15px 25px;
+        }
+
+        .card-body {
+            padding: 20px 25px;
+            background-color: #f9fff1;
+        }
+
+        .card-body img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(24, 145, 0, 0.2);
+            margin-bottom: 15px;
+            display: block;
+        }
+
+        p {
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: #126400;
+        }
+
+        .badge.bg-danger {
+            background-color: #d9534f !important;
+            font-weight: 700;
+            margin-right: 6px;
+        }
+
+        .badge.bg-success {
+            background-color: #5cb85c !important;
+            font-weight: 700;
+        }
+
+        a.btn-secondary {
+            display: block;
+            max-width: 200px;
+            margin: 0 auto;
+            background-color: #189100;
+            border-color: #189100;
+            font-weight: 700;
+            font-size: 1.1rem;
+            transition: background-color 0.3s ease;
+        }
+
+        a.btn-secondary:hover {
+            background-color: #126400;
+            border-color: #126400;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Результати верифікації</h1>
+
+    {% for filename in image_files %}
+    <div class="card shadow-sm">
+        <div class="card-header">
+            {{ filename }}
+        </div>
+        <div class="card-body">
+            <img src="{{ url_for('output_file', filename=filename) }}" alt="{{ filename }}">
+            <p>
+                {% if results[filename] %}
+                    <span class="badge bg-danger">Виявлено:</span>
+                    {% set counts = {} %}
+                    {% for item in results[filename] %}
+                        {% set counts = counts.update({item: counts.get(item, 0) + 1}) or counts %}
+                    {% endfor %}
+                    {% for cls, cnt in counts.items() %}
+                        {{ cnt }} {{ cls }}{% if not loop.last %}, {% endif %}
+                    {% endfor %}
+                {% else %}
+                    <span class="badge bg-success">Заборонених об’єктів не знайдено.</span>
+                {% endif %}
+            </p>
+        </div>
+    </div>
+    {% endfor %}
+
+    <a href="/" class="btn btn-secondary"> ⬅ Назад</a>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

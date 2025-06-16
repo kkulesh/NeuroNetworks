@@ -1,0 +1,13 @@
+train: D:/PycharmProjects/NeuroNetworks/Neural Network.v7i.yolov8/train/images
+val: D:/PycharmProjects/NeuroNetworks/Neural Network.v7i.yolov8/valid/images
+test: D:/PycharmProjects/NeuroNetworks/Neural Network.v7i.yolov8/test/images
+
+nc: 3
+names: ['cannabis', 'cigarette', 'gun']
+
+roboflow:
+  workspace: neural-network-pdqkk
+  project: neural-network-ymwmr
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/neural-network-pdqkk/neural-network-ymwmr/dataset/7
